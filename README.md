@@ -84,7 +84,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/prakhar-kulshrestha-734134427/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
