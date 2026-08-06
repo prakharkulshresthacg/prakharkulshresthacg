@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:00C9FF&height=180&section=header&text=PRAKHAR%20KULSHRESTHA&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h2 align="center">Hi 👋, I'm Prakhar Kulshrestha</h2>
 
 <h3 align="center">💻 B.Tech Student • 🤖 AI Enthusiast • 🚀 Software Developer</h3>
 
@@ -40,8 +39,6 @@
 
 </td>
 <td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prakharkulshresthacg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 </td>
 </tr>
