@@ -37,13 +37,11 @@
 </p>
 
 ---
-
 # 📊 GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prakharkulshresthacg&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prakharkulshresthacg&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=prakharkulshresthacg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=prakharkulshresthacg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -51,9 +49,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?username=prakharkulshresthacg&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=prakharkulshresthacg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -61,13 +57,8 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prakharkulshresthacg&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=prakharkulshresthacg&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
