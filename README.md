@@ -1,42 +1,74 @@
-<h1 align="center">Hi 👋, I'm PRAKHAR KULSHRESTHA </h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:00C9FF&height=180&section=header&text=PRAKHAR%20KULSHRESTHA&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-<h3 align="center">
-💻 B.Tech Student • AI Enthusiast • Software Developer
-</h3>
+<h2 align="center">Hi 👋, I'm Prakhar Kulshrestha</h2>
+
+<h3 align="center">💻 B.Tech Student • 🤖 AI Enthusiast • 🚀 Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+Java+%7C+Python+%7C+Web+Development;Always+Learning+New+Technologies!;Building+Projects+That+Make+an+Impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;AI+%7C+Java+%7C+Python+%7C+Web+Development;Learning+Every+Day.;Building+Projects+That+Make+an+Impact." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prakharkulshrestha&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/prakharkulshresthacg?logo=github&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/prakharkulshresthacg?logo=github&style=for-the-badge" />
+  <a href="https://github.com/prakharkulshresthacg">
+    <img src="https://komarev.com/ghpvc/?username=prakharkulshresthacg&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/prakharkulshresthacg?tab=followers">
+    <img src="https://img.shields.io/github/followers/prakharkulshresthacg?logo=github&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/prakharkulshresthacg?tab=repositories">
+    <img src="https://img.shields.io/github/stars/prakharkulshresthacg?logo=github&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech Student at Swaminarayan University
-- 🤖 Passionate about Artificial Intelligence
-- 💻 Learning Java, Python, JavaScript & C
-- 🌐 Exploring Web Development
-- 📚 Practicing Data Structures & Algorithms
-- 🚀 Open Source Contributor
-- ⚡ Love building innovative projects
+<table>
+<tr>
+<td width="60%">
+
+- 🎓 B.Tech Student at **Swaminarayan University**
+- 🤖 Passionate about **Artificial Intelligence**
+- 💻 Learning **Java, Python, JavaScript & C**
+- 🌐 Exploring **Web Development**
+- 📚 Practicing **Data Structures & Algorithms**
+- 🚀 Interested in **Open Source**
+- ⚡ I love building useful and creative projects
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prakharkulshresthacg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css,git,github,vscode&perline=9" />
-
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css,git,github,vscode&perline=9" alt="Tech Stack" />
 </p>
 
----
+<details>
+<summary><b>📌 Currently Learning</b></summary>
+
+<br>
+
+- Advanced Java
+- Python Projects
+- Web Development
+- Data Structures and Algorithms
+- AI and Machine Learning Basics
+
+</details>
+
+
 # 📊 GitHub Stats
 
 <p align="center">
