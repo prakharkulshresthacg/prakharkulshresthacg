@@ -120,7 +120,7 @@
 
 <p align="center">
 
-> "Code. Learn. Build. Repeat." 🚀
+> ALWAYS GON' COMMIT TO THE BRO CODE!
 
 </p>
 
